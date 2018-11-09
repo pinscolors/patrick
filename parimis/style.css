@@ -54,9 +54,15 @@
   to{ z-index: -100;}
 }
 /*fin d'ecran de chargement*/
-
+/*  _    _
+ | |  | |
+ | |__| | ___  _ __ ___   ___
+ |  __  |/ _ \| '_ ` _ \ / _ \
+ | |  | | (_) | | | | | |  __/
+ |_|  |_|\___/|_| |_| |_|\___|
+ */
 html,
-body {
+.homepage {
   margin:0;
   background-attachment: fixed;
   background: url('http://tedeko.me/wp-content/uploads/2018/08/chambre-hotel-luxe-belle-hotel-r-best-hotel-deal-sitechambre-hotel-luxe.jpg');
